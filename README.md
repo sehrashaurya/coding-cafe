@@ -1,13 +1,15 @@
-# Coding Café
+ï»¿# Coding CafÃ©
 
-Lab work for Coding Café, FM102.
+Lab work for Coding CafÃ©, FM102.
 
 **Name:** Shaurya Sehra
 **Roll number:** U20260228
 
 ## Contents
 
-- `week02/` — lab 1: terminal (notes and command log)
-- `lab4/` — git and github
-- `lab5/` — functions, scope, modules, files
-- `lab6/` — lists, sets, tuples, dictionaries, CSV files
+- `week02/` â€” lab 1: terminal (notes and command log)
+- `lab2/` â€” variables, types, operations, I/O
+- `lab4/` â€” git and github
+- `lab5/` â€” functions, scope, modules, files
+- `lab6/` â€” lists, sets, tuples, dictionaries, CSV files
+- `lab7/` â€” objects, encapsulation, abstraction
